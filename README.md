@@ -121,7 +121,7 @@ FinTrack is designed to work across different screen sizes:
 **Note:** This is a frontend-only project. No backend, database, authentication, or payment integration is included. Contact form submissions are not stored or sent to a server.
 
 ##  Author
-
+git remote -v
 **Hemanth R**
 
 GitHub: https://github.com/hemanth556
